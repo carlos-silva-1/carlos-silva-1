@@ -5,6 +5,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
+
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/carlos-silva-1/carlos-silva-1/master/night-code.gif" align="right"/>
+
 <!--
 **carlos-silva-1/carlos-silva-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
