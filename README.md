@@ -5,15 +5,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-<p>
-<img alt="Night Coding" height="300" width="100" src="https://raw.githubusercontent.com/carlos-silva-1/carlos-silva-1/master/night-code.gif" align="right"/>
 - I've earned my Bachelor's in Computer Science at Federal University of Rio de Janeiro <br/>
 - Currently studying AI & Cloud Computing <br/>
 - Currently working as a freelancer <br/>
 - In my free time, I like learning about film making and watching films <br/>
 - Portfolio [link](https://gleaming-chaja-22f49e.netlify.app/) <br/>
 - I’m currently looking for work, this is [my resume](./resume-carlos-silva.pdf) <br/>
-</p>
 
 
 
