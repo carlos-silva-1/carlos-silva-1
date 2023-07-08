@@ -12,7 +12,7 @@
 - Portfolio [link](https://gleaming-chaja-22f49e.netlify.app/)
 - I’m currently looking for work, this is [my resume](./resume-carlos-silva.pdf)
 
-<img alt="Night Coding" height="300" width="400" src="https://raw.githubusercontent.com/carlos-silva-1/carlos-silva-1/master/night-code.gif" align="right"/>
+<img alt="Night Coding" height="300" width="100" src="https://raw.githubusercontent.com/carlos-silva-1/carlos-silva-1/master/night-code.gif" align="right"/>
 
 <!--
 **carlos-silva-1/carlos-silva-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
