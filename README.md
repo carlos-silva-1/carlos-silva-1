@@ -8,8 +8,6 @@
 - I've earned my Bachelor's in Computer Science at Federal University of Rio de Janeiro <br/>
 - Currently working as a freelancer <br/>
 - In my free time, I like studying film making and history <br/>
-- Portfolio [link](https://gleaming-chaja-22f49e.netlify.app/) <br/>
-- I’m currently looking for work, this is [my resume](./resume-carlos-silva.pdf) <br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
