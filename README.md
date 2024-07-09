@@ -7,7 +7,7 @@
 
 https://carlossilvaportfolio.onrender.com/
 
-<br>
+<hr>
 
 ### 👨🏻‍💻 &nbsp;Sobre
 
