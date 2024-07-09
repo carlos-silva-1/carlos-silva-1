@@ -3,7 +3,7 @@
 
 <br>
 
-### <iframe src="https://giphy.com/embed/WV9R2niZMMbcE5a9um" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>Portfólio
+### <img src="https://giphy.com/embed/WV9R2niZMMbcE5a9um" width="25">Portfólio
 
 https://carlossilvaportfolio.onrender.com/
 
