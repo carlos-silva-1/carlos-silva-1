@@ -12,7 +12,7 @@ https://carlossilvaportfolio.onrender.com/
 ### 👨🏻‍💻 &nbsp;Sobre
 
 - Formado em Ciência da Computação na Universidade Federal do Rio de Janeiro <br/>
-- Atualmente trabalhando como freelancer <br/>
+- Atualmente desenvolvendo uma aplicação para descobrir novas receitas que só levem os ingredientes que o usuário possuir no momento. Escrito com Typescript e Next.js. <br/>
 - No meu tempo livre, gosto de estudar história <br/>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tecnologias</b>
